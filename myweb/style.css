@@ -1,0 +1,25 @@
+h1 {
+  color: blue;
+}
+
+.title {
+  text-align: center;
+  color: darkblue;
+}
+
+/* body {
+  background-image: url(./image/背景圖.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+} */
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  /* 上右下左 */
+  padding: 10px 20px;
+}
